@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on building my technical skill in Data Analysis and Data Science
+- 🔭 I’m currently working on building my technical skill in Data Analysis and Data Science and learning python
 - 🌱 I’m currently learning Data Analysis and Data Science in the NG30 Days of Learning 
 - 👯 I’m looking to collaborate on everything Data Analysis, Data Science and Project
 - 🤔 I’m looking for help with breaking down technical concepts
